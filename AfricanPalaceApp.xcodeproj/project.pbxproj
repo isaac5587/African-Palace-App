@@ -1,0 +1,662 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F00DFBF928739C80005E2C69 /* DIN Condensed Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F00DFBF828739C80005E2C69 /* DIN Condensed Bold.ttf */; };
+		F00DFBFA28739C80005E2C69 /* DIN Condensed Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F00DFBF828739C80005E2C69 /* DIN Condensed Bold.ttf */; };
+		F00DFBFB28739C80005E2C69 /* DIN Condensed Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F00DFBF828739C80005E2C69 /* DIN Condensed Bold.ttf */; };
+		F00E4D6828738EFE000F261A /* AfricanPalaceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00E4D6728738EFE000F261A /* AfricanPalaceApp.swift */; };
+		F00E4D6A28738EFE000F261A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00E4D6928738EFE000F261A /* ContentView.swift */; };
+		F00E4D6C28738F00000F261A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F00E4D6B28738F00000F261A /* Assets.xcassets */; };
+		F00E4D7928738F00000F261A /* AfricanPalaceAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00E4D7828738F00000F261A /* AfricanPalaceAppTests.swift */; };
+		F00E4D8328738F00000F261A /* AfricanPalaceAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00E4D8228738F00000F261A /* AfricanPalaceAppUITests.swift */; };
+		F00E4D8528738F00000F261A /* AfricanPalaceAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00E4D8428738F00000F261A /* AfricanPalaceAppUITestsLaunchTests.swift */; };
+		F00E4D97287390AA000F261A /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00E4D96287390AA000F261A /* HomeScreen.swift */; };
+		F00E4D99287390CE000F261A /* MenuScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00E4D98287390CE000F261A /* MenuScreen.swift */; };
+		F00E4D9B287390F3000F261A /* WebScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00E4D9A287390F3000F261A /* WebScreen.swift */; };
+		F00E4D9D2873910C000F261A /* ViewImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00E4D9C2873910C000F261A /* ViewImage.swift */; };
+		F00E4D9F28739145000F261A /* ClothingScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00E4D9E28739145000F261A /* ClothingScreen.swift */; };
+		F00E4DA528739892000F261A /* PlayfairDisplay-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F00E4DA428739892000F261A /* PlayfairDisplay-Bold.ttf */; };
+		F00E4DA628739892000F261A /* PlayfairDisplay-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F00E4DA428739892000F261A /* PlayfairDisplay-Bold.ttf */; };
+		F00E4DA728739892000F261A /* PlayfairDisplay-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F00E4DA428739892000F261A /* PlayfairDisplay-Bold.ttf */; };
+		F00E4DA9287398A3000F261A /* PlayfairDisplay-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F00E4DA8287398A3000F261A /* PlayfairDisplay-Regular.ttf */; };
+		F00E4DAA287398A3000F261A /* PlayfairDisplay-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F00E4DA8287398A3000F261A /* PlayfairDisplay-Regular.ttf */; };
+		F00E4DAB287398A3000F261A /* PlayfairDisplay-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F00E4DA8287398A3000F261A /* PlayfairDisplay-Regular.ttf */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F00E4D7528738F00000F261A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F00E4D5C28738EFE000F261A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F00E4D6328738EFE000F261A;
+			remoteInfo = AfricanPalaceApp;
+		};
+		F00E4D7F28738F00000F261A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F00E4D5C28738EFE000F261A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F00E4D6328738EFE000F261A;
+			remoteInfo = AfricanPalaceApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F00DFBF828739C80005E2C69 /* DIN Condensed Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DIN Condensed Bold.ttf"; sourceTree = "<group>"; };
+		F00E4D6428738EFE000F261A /* AfricanPalaceApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AfricanPalaceApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F00E4D6728738EFE000F261A /* AfricanPalaceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricanPalaceApp.swift; sourceTree = "<group>"; };
+		F00E4D6928738EFE000F261A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F00E4D6B28738F00000F261A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F00E4D7428738F00000F261A /* AfricanPalaceAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AfricanPalaceAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F00E4D7828738F00000F261A /* AfricanPalaceAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricanPalaceAppTests.swift; sourceTree = "<group>"; };
+		F00E4D7E28738F00000F261A /* AfricanPalaceAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AfricanPalaceAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F00E4D8228738F00000F261A /* AfricanPalaceAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricanPalaceAppUITests.swift; sourceTree = "<group>"; };
+		F00E4D8428738F00000F261A /* AfricanPalaceAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricanPalaceAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F00E4D96287390AA000F261A /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
+		F00E4D98287390CE000F261A /* MenuScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuScreen.swift; sourceTree = "<group>"; };
+		F00E4D9A287390F3000F261A /* WebScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebScreen.swift; sourceTree = "<group>"; };
+		F00E4D9C2873910C000F261A /* ViewImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewImage.swift; sourceTree = "<group>"; };
+		F00E4D9E28739145000F261A /* ClothingScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClothingScreen.swift; sourceTree = "<group>"; };
+		F00E4DA3287397CF000F261A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		F00E4DA428739892000F261A /* PlayfairDisplay-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlayfairDisplay-Bold.ttf"; sourceTree = "<group>"; };
+		F00E4DA8287398A3000F261A /* PlayfairDisplay-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlayfairDisplay-Regular.ttf"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F00E4D6128738EFE000F261A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F00E4D7128738F00000F261A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F00E4D7B28738F00000F261A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F00E4D5B28738EFE000F261A = {
+			isa = PBXGroup;
+			children = (
+				F00E4D6628738EFE000F261A /* AfricanPalaceApp */,
+				F00E4D7728738F00000F261A /* AfricanPalaceAppTests */,
+				F00E4D8128738F00000F261A /* AfricanPalaceAppUITests */,
+				F00E4D6528738EFE000F261A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F00E4D6528738EFE000F261A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F00E4D6428738EFE000F261A /* AfricanPalaceApp.app */,
+				F00E4D7428738F00000F261A /* AfricanPalaceAppTests.xctest */,
+				F00E4D7E28738F00000F261A /* AfricanPalaceAppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F00E4D6628738EFE000F261A /* AfricanPalaceApp */ = {
+			isa = PBXGroup;
+			children = (
+				F00E4DA3287397CF000F261A /* Info.plist */,
+				F00E4D9528739057000F261A /* Fonts */,
+				F00E4D9228738FFF000F261A /* Screens */,
+				F00E4D942873902B000F261A /* Main */,
+				F00E4D9328739018000F261A /* App Assets */,
+			);
+			path = AfricanPalaceApp;
+			sourceTree = "<group>";
+		};
+		F00E4D7728738F00000F261A /* AfricanPalaceAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				F00E4D7828738F00000F261A /* AfricanPalaceAppTests.swift */,
+			);
+			path = AfricanPalaceAppTests;
+			sourceTree = "<group>";
+		};
+		F00E4D8128738F00000F261A /* AfricanPalaceAppUITests */ = {
+			isa = PBXGroup;
+			children = (
+				F00E4D8228738F00000F261A /* AfricanPalaceAppUITests.swift */,
+				F00E4D8428738F00000F261A /* AfricanPalaceAppUITestsLaunchTests.swift */,
+			);
+			path = AfricanPalaceAppUITests;
+			sourceTree = "<group>";
+		};
+		F00E4D9228738FFF000F261A /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				F00E4D96287390AA000F261A /* HomeScreen.swift */,
+				F00E4D98287390CE000F261A /* MenuScreen.swift */,
+				F00E4D9A287390F3000F261A /* WebScreen.swift */,
+				F00E4D9C2873910C000F261A /* ViewImage.swift */,
+				F00E4D9E28739145000F261A /* ClothingScreen.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		F00E4D9328739018000F261A /* App Assets */ = {
+			isa = PBXGroup;
+			children = (
+				F00E4D6B28738F00000F261A /* Assets.xcassets */,
+			);
+			path = "App Assets";
+			sourceTree = "<group>";
+		};
+		F00E4D942873902B000F261A /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				F00E4D6728738EFE000F261A /* AfricanPalaceApp.swift */,
+				F00E4D6928738EFE000F261A /* ContentView.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		F00E4D9528739057000F261A /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				F00DFBF828739C80005E2C69 /* DIN Condensed Bold.ttf */,
+				F00E4DA8287398A3000F261A /* PlayfairDisplay-Regular.ttf */,
+				F00E4DA428739892000F261A /* PlayfairDisplay-Bold.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F00E4D6328738EFE000F261A /* AfricanPalaceApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F00E4D8828738F00000F261A /* Build configuration list for PBXNativeTarget "AfricanPalaceApp" */;
+			buildPhases = (
+				F00E4D6028738EFE000F261A /* Sources */,
+				F00E4D6128738EFE000F261A /* Frameworks */,
+				F00E4D6228738EFE000F261A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AfricanPalaceApp;
+			productName = AfricanPalaceApp;
+			productReference = F00E4D6428738EFE000F261A /* AfricanPalaceApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F00E4D7328738F00000F261A /* AfricanPalaceAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F00E4D8B28738F00000F261A /* Build configuration list for PBXNativeTarget "AfricanPalaceAppTests" */;
+			buildPhases = (
+				F00E4D7028738F00000F261A /* Sources */,
+				F00E4D7128738F00000F261A /* Frameworks */,
+				F00E4D7228738F00000F261A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F00E4D7628738F00000F261A /* PBXTargetDependency */,
+			);
+			name = AfricanPalaceAppTests;
+			productName = AfricanPalaceAppTests;
+			productReference = F00E4D7428738F00000F261A /* AfricanPalaceAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F00E4D7D28738F00000F261A /* AfricanPalaceAppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F00E4D8E28738F00000F261A /* Build configuration list for PBXNativeTarget "AfricanPalaceAppUITests" */;
+			buildPhases = (
+				F00E4D7A28738F00000F261A /* Sources */,
+				F00E4D7B28738F00000F261A /* Frameworks */,
+				F00E4D7C28738F00000F261A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F00E4D8028738F00000F261A /* PBXTargetDependency */,
+			);
+			name = AfricanPalaceAppUITests;
+			productName = AfricanPalaceAppUITests;
+			productReference = F00E4D7E28738F00000F261A /* AfricanPalaceAppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F00E4D5C28738EFE000F261A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
+				TargetAttributes = {
+					F00E4D6328738EFE000F261A = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+					F00E4D7328738F00000F261A = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = F00E4D6328738EFE000F261A;
+					};
+					F00E4D7D28738F00000F261A = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = F00E4D6328738EFE000F261A;
+					};
+				};
+			};
+			buildConfigurationList = F00E4D5F28738EFE000F261A /* Build configuration list for PBXProject "AfricanPalaceApp" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F00E4D5B28738EFE000F261A;
+			productRefGroup = F00E4D6528738EFE000F261A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F00E4D6328738EFE000F261A /* AfricanPalaceApp */,
+				F00E4D7328738F00000F261A /* AfricanPalaceAppTests */,
+				F00E4D7D28738F00000F261A /* AfricanPalaceAppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F00E4D6228738EFE000F261A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F00E4DA528739892000F261A /* PlayfairDisplay-Bold.ttf in Resources */,
+				F00DFBF928739C80005E2C69 /* DIN Condensed Bold.ttf in Resources */,
+				F00E4D6C28738F00000F261A /* Assets.xcassets in Resources */,
+				F00E4DA9287398A3000F261A /* PlayfairDisplay-Regular.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F00E4D7228738F00000F261A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F00E4DAA287398A3000F261A /* PlayfairDisplay-Regular.ttf in Resources */,
+				F00E4DA628739892000F261A /* PlayfairDisplay-Bold.ttf in Resources */,
+				F00DFBFA28739C80005E2C69 /* DIN Condensed Bold.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F00E4D7C28738F00000F261A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F00E4DAB287398A3000F261A /* PlayfairDisplay-Regular.ttf in Resources */,
+				F00E4DA728739892000F261A /* PlayfairDisplay-Bold.ttf in Resources */,
+				F00DFBFB28739C80005E2C69 /* DIN Condensed Bold.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F00E4D6028738EFE000F261A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F00E4D99287390CE000F261A /* MenuScreen.swift in Sources */,
+				F00E4D6A28738EFE000F261A /* ContentView.swift in Sources */,
+				F00E4D9D2873910C000F261A /* ViewImage.swift in Sources */,
+				F00E4D9F28739145000F261A /* ClothingScreen.swift in Sources */,
+				F00E4D9B287390F3000F261A /* WebScreen.swift in Sources */,
+				F00E4D6828738EFE000F261A /* AfricanPalaceApp.swift in Sources */,
+				F00E4D97287390AA000F261A /* HomeScreen.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F00E4D7028738F00000F261A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F00E4D7928738F00000F261A /* AfricanPalaceAppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F00E4D7A28738F00000F261A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F00E4D8328738F00000F261A /* AfricanPalaceAppUITests.swift in Sources */,
+				F00E4D8528738F00000F261A /* AfricanPalaceAppUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F00E4D7628738F00000F261A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F00E4D6328738EFE000F261A /* AfricanPalaceApp */;
+			targetProxy = F00E4D7528738F00000F261A /* PBXContainerItemProxy */;
+		};
+		F00E4D8028738F00000F261A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F00E4D6328738EFE000F261A /* AfricanPalaceApp */;
+			targetProxy = F00E4D7F28738F00000F261A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		F00E4D8628738F00000F261A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F00E4D8728738F00000F261A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F00E4D8928738F00000F261A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.2;
+				DEVELOPMENT_ASSET_PATHS = "\"AfricanPalaceApp/Preview Content\"";
+				DEVELOPMENT_TEAM = SYR366A2L8;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = AfricanPalaceApp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "African Palace";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.2;
+				PRODUCT_BUNDLE_IDENTIFIER = IsaacAnsumana.AfricanPalaceApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		F00E4D8A28738F00000F261A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.2;
+				DEVELOPMENT_ASSET_PATHS = "\"AfricanPalaceApp/Preview Content\"";
+				DEVELOPMENT_TEAM = SYR366A2L8;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = AfricanPalaceApp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "African Palace";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.2;
+				PRODUCT_BUNDLE_IDENTIFIER = IsaacAnsumana.AfricanPalaceApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		F00E4D8C28738F00000F261A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SYR366A2L8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = IsaacAnsumana.AfricanPalaceAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AfricanPalaceApp.app/AfricanPalaceApp";
+			};
+			name = Debug;
+		};
+		F00E4D8D28738F00000F261A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SYR366A2L8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = IsaacAnsumana.AfricanPalaceAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AfricanPalaceApp.app/AfricanPalaceApp";
+			};
+			name = Release;
+		};
+		F00E4D8F28738F00000F261A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SYR366A2L8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = IsaacAnsumana.AfricanPalaceAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = AfricanPalaceApp;
+			};
+			name = Debug;
+		};
+		F00E4D9028738F00000F261A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SYR366A2L8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = IsaacAnsumana.AfricanPalaceAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = AfricanPalaceApp;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F00E4D5F28738EFE000F261A /* Build configuration list for PBXProject "AfricanPalaceApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F00E4D8628738F00000F261A /* Debug */,
+				F00E4D8728738F00000F261A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F00E4D8828738F00000F261A /* Build configuration list for PBXNativeTarget "AfricanPalaceApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F00E4D8928738F00000F261A /* Debug */,
+				F00E4D8A28738F00000F261A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F00E4D8B28738F00000F261A /* Build configuration list for PBXNativeTarget "AfricanPalaceAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F00E4D8C28738F00000F261A /* Debug */,
+				F00E4D8D28738F00000F261A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F00E4D8E28738F00000F261A /* Build configuration list for PBXNativeTarget "AfricanPalaceAppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F00E4D8F28738F00000F261A /* Debug */,
+				F00E4D9028738F00000F261A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F00E4D5C28738EFE000F261A /* Project object */;
+}
