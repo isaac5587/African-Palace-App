@@ -1,4 +1,4 @@
-# AfricanPalaceApp
+# African Palace App
 
 Created this simple iOS App for the restaurant African Palace in order for users to 
 
