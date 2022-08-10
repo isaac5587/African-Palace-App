@@ -10,7 +10,7 @@ Created this simple iOS App for the restaurant African Palace in order for users
 
 · View African Palcace brand merchandise.
 
-· And more!
+· And more options!
 
 African Palace Bar & Grill is a cultural restaurant, nightclub, 
 and catering service located at 4005 Seven Hills Dr, Florissant, MO 63033 that provides 
